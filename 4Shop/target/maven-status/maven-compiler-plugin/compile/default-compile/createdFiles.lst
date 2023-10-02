@@ -1,0 +1,13 @@
+DAOs\CustomerDAO.class
+Controller\CartController.class
+DAOs\OrderDAO.class
+Models\Item.class
+Models\Cart.class
+DAOs\ProductDAO.class
+Models\Product.class
+Controller\CustomerController.class
+Controller\OrderController.class
+Controller\ProductController.class
+Models\Customer.class
+Models\Order.class
+DB\DBConnection.class
